@@ -1,0 +1,21 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies (this project has none, kept for convenience)
+node_modules/
+
+# Logs and OS noise
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Editor and tooling
+.vscode/
+.idea/
+
+# Local test leftovers
+coverage/
+tmp/

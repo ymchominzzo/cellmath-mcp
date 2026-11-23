@@ -1,0 +1,33 @@
+{
+  "name": "cellmath-mcp",
+  "version": "1.0.0",
+  "description": "Lightweight MCP client & spec wrapper for CellMath (Bring Your Own Key)",
+  "type": "module",
+  "bin": {
+    "cellmath-mcp": "./index.js"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE",
+    ".env.example"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "cellmath",
+    "memory",
+    "ai-agents",
+    "streamable-http",
+    "stdio-bridge"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
