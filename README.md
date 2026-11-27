@@ -1,5 +1,7 @@
 # cellmath-mcp
 
+[![CellMath MCP connector](https://glama.ai/mcp/connectors/io.github.ymchominzzo/cellmath/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ymchominzzo/cellmath)
+
 > Lightweight MCP client & spec wrapper for CellMath (Bring Your Own Key).
 
 CellMath is a memory governance layer for AI agents: durable knowledge **cells** that are
