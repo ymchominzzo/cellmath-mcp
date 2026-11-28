@@ -1,6 +1,6 @@
 # cellmath-mcp
 
-[![CellMath MCP connector](https://glama.ai/mcp/connectors/io.github.ymchominzzo/cellmath/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ymchominzzo/cellmath)
+[![CellMath MCP connector](https://glama.ai/mcp/connectors/io.github.ymchominzzo/cellmath/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ymchominzzo/cellmath) [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/ymchominzzo/cellmath-mcp)
 
 > Lightweight MCP client & spec wrapper for CellMath (Bring Your Own Key).
 
